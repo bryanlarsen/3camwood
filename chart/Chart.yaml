@@ -1,0 +1,4 @@
+apiVersion: v1
+description: 3camwood site
+name: 3camwood
+version: 0.1.0
